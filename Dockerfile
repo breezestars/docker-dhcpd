@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-MAINTAINER Robin Smidsrød <robin@smidsrod.no>
+MAINTAINER Jimmy Ou <breezestars@gmail.com>
 
 ARG DEBIAN_FRONTEND=noninteractive
 
